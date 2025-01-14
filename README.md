@@ -1,8 +1,13 @@
 # bmcu-guide
 This is everything I found with bmcu and my setup instructions
 
+## BMCU
 
-## Parts
+Link to the original page: https://oshwhub.com/bamboo-shoot-xmcu-pcb-team/bmcu
+
+## PCB Components
+
+## Mechanical Parts
 
 | parts |  image | quantity | url|
 |------|---|----|-----|
@@ -23,6 +28,8 @@ This is everything I found with bmcu and my setup instructions
 | MR85ZZ bearing | ![](./imgs/mr85zz-kugleleje-bmg-bearing.jpg)| 8 | 
 |wires|![](./imgs/20250113_234314.jpg)|8|
 |round magnet D6x2.5 (optional)|![](./imgs/20250113_234629.jpg)| 4|
+|AMS cable header (dont know exactly what brand)|| 2|
+|dupont female header (small)|| 8|
 
 
 You will also need lubricating oil/grease, a screwdriver and soldering tools
