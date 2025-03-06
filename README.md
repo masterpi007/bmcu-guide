@@ -14,15 +14,15 @@ Link to the original page: https://oshwhub.com/bamboo-shoot-xmcu-pcb-team/bmcu
 | D2x10mm shaft|![](./imgs/20250113_231050.jpg)| 16| 
 | D5x22mm shaft|![](./imgs/20250113_231548.jpg)| 4| 
 | D2x20mm shaft| ![](./imgs/20250113_230614.jpg) | 12| 
-| 20082b gear|![](./imgs/Screenshot%202025-01-13%20233142.png)| 8| 
-| 182A gear|![](./imgs/61sC1fKFzdL._AC_UF1000,1000_QL80_.jpg)| 8| 
+| 20082b gear|![](./imgs/Screenshot%202025-01-13%20233142.png)| 8| https://www.aliexpress.us/item/2251832773767691.html?channel=twinner |
+| 182A gear|![](./imgs/61sC1fKFzdL._AC_UF1000,1000_QL80_.jpg)| 8| https://www.aliexpress.us/item/3256805882541566.html?channel=twinner |
 | W6X82A gear|![](./imgs/Screenshot%202025-01-13%20232800.png)| 4| 
-| 242A gear| ![](./imgs/20250113_232424.jpg)| 4| 
-| FF-130SH DC motor|![](./imgs/Screenshot%202025-01-13%20233300.png)| 4| 
+| 242A gear| ![](./imgs/20250113_232424.jpg)| 4| https://www.aliexpress.us/item/2251832772413347.html?channel=twinner| 
+| FF-130SH DC motor|![](./imgs/Screenshot%202025-01-13%20233300.png)| 4| https://www.aliexpress.us/item/3256806534762641.html?channel=twinner  | 
 | 62B bushing|![](./imgs/Screenshot%202025-01-13%20233743.png)| 28| 
-| PC4-M6  connector|![](./imgs/Screenshot%202025-01-13%20234100.png)| 4 (suggest 8)| 
+| PC4-M6  connector|![](./imgs/Screenshot%202025-01-13%20234100.png)| 4 (suggest 8)| https://www.aliexpress.us/item/3256805460431392.html?channel=twinner  | 
 | 0.5x6x10mm spring| ![](./imgs/20250113_225748.jpg) | 4 | 
-| 0.6x4x10mm spring| ![](./imgs/20250113_224538.jpg) | 4 | 
+| 0.6x4x10mm spring| ![](./imgs/20250113_224538.jpg) | 4 | https://www.aliexpress.us/item/3256805126192641.html?channel=twinner  | 
 | m2x8  screw heads|![](./imgs/Screenshot%202025-01-13%20233956.png)| 60 | 
 | MBG gear set|![](./imgs/20250107_180137.jpg)| 4 | 
 | MR85ZZ bearing | ![](./imgs/mr85zz-kugleleje-bmg-bearing.jpg)| 8 | 
